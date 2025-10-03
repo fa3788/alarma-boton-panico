@@ -1,16 +1,19 @@
 # Planeación del Proyecto
 
-**Metodología seleccionada:** Scrum.  
+## Metodología seleccionada: Scrum
+Scrum permite gestionar el proyecto de manera ágil, mediante iteraciones cortas llamadas **sprints** y reuniones periódicas de control.
 
-**Roles en el equipo:**
-- Product Owner: Define la visión del producto y prioriza el backlog.
-- Scrum Master: Facilita el proceso ágil y elimina obstáculos.
-- Development Team: Desarrolla las funcionalidades.
+## Roles en el equipo
+- **Product Owner:** Define la visión del producto, prioriza el backlog y asegura que el producto entregue valor.  
+- **Scrum Master:** Facilita la metodología, elimina impedimentos y garantiza el cumplimiento del marco ágil.  
+- **Development Team:** Encargado del desarrollo de funcionalidades, pruebas y documentación.  
 
-**Recursos necesarios:**
-- Herramientas de gestión: Trello para tableros Scrum.
-- GitHub para control de versiones y documentación.
-- Lenguajes de programación: Python/Java según la fase.
-- Herramientas de comunicación: Google Meet, WhatsApp.
+## Recursos necesarios
+- **Herramientas de gestión:** Trello (tableros Scrum).  
+- **Control de versiones:** GitHub.  
+- **Lenguajes de programación:** Python / Java (según requerimientos).  
+- **Base de datos:** MySQL / PostgreSQL.  
+- **Comunicación:** Google Meet, WhatsApp, correo institucional.  
 
-**Duración estimada del proyecto:** 8 semanas.
+## Duración estimada
+8 semanas, distribuidas en 4 sprints de 2 semanas cada uno.  
